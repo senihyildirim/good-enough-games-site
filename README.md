@@ -24,10 +24,10 @@ gerçek link girilince otomatik aktif olur ve satır kaybolur.
 
 ## E-postayı değiştirmek
 
-Tüm sayfalarda `hello@goodenoughgames.com` geçiyor. Değiştirmek için:
+Tüm sayfalarda `hello@good-enough.games` geçiyor. Değiştirmek için:
 
 ```bash
-grep -rl "hello@goodenoughgames.com" . | xargs sed -i "s/hello@goodenoughgames.com/YENI@ADRES/g"
+grep -rl "hello@good-enough.games" . | xargs sed -i "s/hello@good-enough.games/YENI@ADRES/g"
 ```
 
 ## Yerelde görüntülemek
