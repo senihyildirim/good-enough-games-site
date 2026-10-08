@@ -50,6 +50,6 @@ Sonra tarayıcıda http://localhost:8787
 | A | @ | 185.199.109.153 |
 | A | @ | 185.199.110.153 |
 | A | @ | 185.199.111.153 |
-| CNAME | www | `<github-kullanici-adi>.github.io` |
+| CNAME | www | `senihyildirim.github.io` |
 
 DNS yayılması birkaç dakika ile birkaç saat sürer; sonra HTTPS otomatik gelir.
